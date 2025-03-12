@@ -1,0 +1,1 @@
+import{o,b as s,f as r}from"../modules/vue-DbKq9kqo.js";import{_ as t}from"../index-Bn2DQ5US.js";const l={},c={class:"slidev-layout default"};function n(e,a){return o(),s("div",c,[r(e.$slots,"default")])}const _=t(l,[["render",n],["__file","/home/runner/work/slidev-resources/slidev-resources/node_modules/@slidev/client/layouts/default.vue"]]);export{_ as I};
